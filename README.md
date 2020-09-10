@@ -1,4 +1,8 @@
- ## PROBLEM STATEMENT :
+# BuyNSell
+## An E-Commerce Web App
+
+
+## PROBLEM STATEMENT :
  Every newbie entering college has to face an initial period of hustle
  where he's confused as to where he can get all important goods
  required for his day to day life. He wanders around for stuff like
